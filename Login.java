@@ -1,9 +1,9 @@
 public class Login {
 
-	private string username;
-	private string password;
+	private String username;
+	private String password;
 
-	public bool validateLogin() {
+	public boolean validateLogin() {
 		// TODO - implement Login.validateLogin
 		throw new UnsupportedOperationException();
 	}
