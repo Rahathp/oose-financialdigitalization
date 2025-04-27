@@ -1,8 +1,8 @@
 public class Documents {
 
 	private int documentId;
-	private string documentName;
-	private string documentType;
+	private String documentName;
+	private String documentType;
 
 	public void viewDocument() {
 		// TODO - implement Documents.viewDocument
