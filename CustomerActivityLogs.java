@@ -1,7 +1,7 @@
 public class CustomerActivityLogs {
 
 	private int activityId;
-	private string activityType;
+	private String activityType;
 	private datetime activityTime;
 
 	public void logActivity() {
