@@ -1,8 +1,8 @@
 public class Accounts {
 
 	private int accountId;
-	private string accountName;
-	private string accountStatus;
+	private String accountName;
+	private String accountStatus;
 
 	public void linkAccount() {
 		// TODO - implement Accounts.linkAccount
