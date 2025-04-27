@@ -1,9 +1,9 @@
 public class Authentication {
 
-	private string authToken;
-	private bool isAuthenticated;
+	private String authToken;
+	private Bool isAuthenticated;
 
-	public bool login() {
+	public Bool login() {
 		// TODO - implement Authentication.login
 		throw new UnsupportedOperationException();
 	}
@@ -13,7 +13,7 @@ public class Authentication {
 		throw new UnsupportedOperationException();
 	}
 
-	public bool authenticate() {
+	public Bool authenticate() {
 		// TODO - implement Authentication.authenticate
 		throw new UnsupportedOperationException();
 	}
